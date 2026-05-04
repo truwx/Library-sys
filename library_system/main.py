@@ -10,7 +10,7 @@ from library_system.reader_manager import ReaderManager
 from library_system.borrow_manager import BorrowManager
 from library_system.models import Book, Reader
 
-
+# 图书馆管理系统
 class LibrarySystem:
     """图书馆管理系统主类"""
     
